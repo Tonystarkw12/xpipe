@@ -1,6 +1,6 @@
 {
   "dontAllowTerminalRestart" : false,
-  "enableHttpApi" : false,
+  "enableHttpApi" : true,
   "dontAutomaticallyStartVmSshServer" : false,
   "dontAcceptNewHostKeys" : false,
   "disableTerminalRemotePasswordPreparation" : false,
