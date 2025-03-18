@@ -7,7 +7,7 @@
   "alwaysConfirmElevation" : false,
   "dontCachePasswords" : false,
   "denyTempScriptCreation" : false,
-  "passwordManager" : null,
+  "passwordManager" : "none",
   "encryptAllVaultData" : false,
   "workspaceLock" : null,
   "apiKey" : "a0783199-0ab8-4211-b84a-afbaa1c7c27b"
